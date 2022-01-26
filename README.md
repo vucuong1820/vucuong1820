@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)]
+![MasterHead](https://media.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif)
 <h1 align="center">Hi 👋, I'm Vu Manh Cuong</h1>
 <h3 align="center">A passionate frontend developer from Haiphong with ❤</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
