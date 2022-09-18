@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu Manh Cuong</h1>
-<h3 align="center">A passionate frontend developer from Haiphong with ❤</h3>
+<h3 align="center">A passionate javascript developer from Haiphong with ❤</h3>
   <h3 align="center" >A Developer from Foxecom </h3>
  <p align="center"> <img width="100" src="https://cdn.shopify.com/s/files/1/0550/8179/5831/files/hero-sub-title.svg?v=1633768503"/><p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
