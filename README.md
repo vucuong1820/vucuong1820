@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vu Manh Cuong</h1>
 <h3 align="center">A passionate frontend developer from Haiphong with ❤</h3>
+<div align="center"><g>
+    <path fill="#ff5c00" d="m33.43 15.73 5.9 19.67-7.87 11.79L23.6 35.4l5.9-19.67h3.93zM53.09 19.66V0L39.33 15.73l5.9 17.7 17.7-3.93-9.84-9.84zM9.83 19.66V0L23.6 15.73l-5.9 17.7L0 29.5l9.83-9.84z"></path>
+  </g></div>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vucuong1820&label=Profile%20views&color=0e75b6&style=flat" alt="vucuong1820" /> </p>
 
