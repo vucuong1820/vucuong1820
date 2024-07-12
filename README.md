@@ -6,11 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vucuong1820&label=Profile%20views&color=0e75b6&style=flat" alt="vucuong1820" /> </p>
 
 
-- 🌱 I’m currently learning **ReactJs, NextJs, Typescript**
+- 🌱 I’m currently working as a Javascript Developer, Shopify App Developer
 
-- 👨‍💻 All of my projects are available at [github.com/vucuong1820](github.com/vucuong1820)
-
-- 💬 Ask me about **ReactJs, Vanilla Javascript**
+- 💬 Ask me about **ReactJs, Vanilla Javascript, NextJs, MongoDB, Shopify App, ExpressJs, NodeJS**
 
 - 📫 How to reach me **vucuong1820@gmail.com**
 
