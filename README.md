@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vu Manh Cuong</h1>
-<h3 align="center">A passionate javascript developer from Haiphong with ❤</h3>
-  <h3 align="center" >A Developer from Foxecom </h3>
+<h3 align="center">A passionate Full-stack Developer from Haiphong with ❤</h3>
+  <h3 align="center" >A Full-stack Developer from FoxEcom </h3>
  <p align="center"> <img width="100" src="https://cdn.shopify.com/s/files/1/0550/8179/5831/files/hero-sub-title.svg?v=1633768503"/><p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vucuong1820&label=Profile%20views&color=0e75b6&style=flat" alt="vucuong1820" /> </p>
 
 
-- 🌱 I’m currently working as a Javascript Developer, Shopify App Developer
+- 🌱 I’m currently working as a Full-stack Developer, Shopify App Developer
 
-- 💬 Ask me about **ReactJs, Vanilla Javascript, NextJs, MongoDB, Shopify App, ExpressJs, NodeJS**
+- 💬 Ask me about **ReactJS, JavaScript, NodeJS, MongoDB, Shopify App, ExpressJS, AWS, Docker**
 
 - 📫 How to reach me **vucuong1820@gmail.com**
 
